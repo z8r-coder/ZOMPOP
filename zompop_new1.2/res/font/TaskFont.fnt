@@ -1,0 +1,37 @@
+info face="»ª¿µ·½Ô²ÌåW7" size=32 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 outline=0
+common lineHeight=33 base=28 scaleW=4096 scaleH=4096 pages=1 packed=0 alphaChnl=0 redChnl=3 greenChnl=3 blueChnl=3
+page id=0 file="TaskFont_0.png"
+chars count=33
+char id=47   x=836   y=0     width=16    height=24    xoffset=0     yoffset=4     xadvance=16    page=0  chnl=15
+char id=48   x=671   y=0     width=18    height=24    xoffset=-1    yoffset=4     xadvance=16    page=0  chnl=15
+char id=49   x=853   y=0     width=6     height=24    xoffset=5     yoffset=4     xadvance=16    page=0  chnl=15
+char id=50   x=819   y=0     width=16    height=24    xoffset=0     yoffset=4     xadvance=16    page=0  chnl=15
+char id=51   x=802   y=0     width=16    height=24    xoffset=0     yoffset=4     xadvance=16    page=0  chnl=15
+char id=52   x=766   y=0     width=18    height=24    xoffset=-1    yoffset=4     xadvance=16    page=0  chnl=15
+char id=53   x=747   y=0     width=18    height=24    xoffset=-1    yoffset=4     xadvance=16    page=0  chnl=15
+char id=54   x=728   y=0     width=18    height=24    xoffset=-1    yoffset=4     xadvance=16    page=0  chnl=15
+char id=55   x=785   y=0     width=16    height=24    xoffset=0     yoffset=4     xadvance=16    page=0  chnl=15
+char id=56   x=709   y=0     width=18    height=24    xoffset=-1    yoffset=4     xadvance=16    page=0  chnl=15
+char id=57   x=690   y=0     width=18    height=24    xoffset=-1    yoffset=4     xadvance=16    page=0  chnl=15
+char id=20013 x=373   y=0     width=29    height=29    xoffset=2     yoffset=2     xadvance=32    page=0  chnl=15
+char id=20048 x=432   y=0     width=31    height=28    xoffset=1     yoffset=3     xadvance=32    page=0  chnl=15
+char id=20882 x=555   y=0     width=28    height=28    xoffset=2     yoffset=3     xadvance=32    page=0  chnl=15
+char id=21169 x=252   y=0     width=30    height=29    xoffset=1     yoffset=2     xadvance=32    page=0  chnl=15
+char id=22870 x=403   y=0     width=28    height=29    xoffset=2     yoffset=2     xadvance=32    page=0  chnl=15
+char id=23436 x=128   y=0     width=30    height=29    xoffset=1     yoffset=2     xadvance=32    page=0  chnl=15
+char id=24065 x=642   y=0     width=28    height=27    xoffset=2     yoffset=4     xadvance=32    page=0  chnl=15
+char id=24230 x=221   y=0     width=30    height=29    xoffset=1     yoffset=2     xadvance=32    page=0  chnl=15
+char id=24335 x=343   y=0     width=29    height=29    xoffset=2     yoffset=2     xadvance=32    page=0  chnl=15
+char id=25104 x=313   y=0     width=29    height=29    xoffset=2     yoffset=2     xadvance=32    page=0  chnl=15
+char id=25928 x=96    y=0     width=31    height=29    xoffset=0     yoffset=2     xadvance=32    page=0  chnl=15
+char id=27169 x=64    y=0     width=31    height=29    xoffset=0     yoffset=2     xadvance=32    page=0  chnl=15
+char id=27425 x=190   y=0     width=30    height=29    xoffset=1     yoffset=2     xadvance=32    page=0  chnl=15
+char id=28040 x=283   y=0     width=29    height=29    xoffset=1     yoffset=2     xadvance=32    page=0  chnl=15
+char id=36827 x=495   y=0     width=29    height=28    xoffset=2     yoffset=2     xadvance=32    page=0  chnl=15
+char id=36830 x=584   y=0     width=28    height=28    xoffset=2     yoffset=2     xadvance=32    page=0  chnl=15
+char id=36873 x=613   y=0     width=28    height=28    xoffset=2     yoffset=2     xadvance=32    page=0  chnl=15
+char id=37327 x=159   y=0     width=30    height=29    xoffset=1     yoffset=2     xadvance=32    page=0  chnl=15
+char id=37329 x=32    y=0     width=31    height=29    xoffset=0     yoffset=2     xadvance=32    page=0  chnl=15
+char id=38505 x=0     y=0     width=31    height=29    xoffset=1     yoffset=2     xadvance=32    page=0  chnl=15
+char id=38899 x=525   y=0     width=29    height=28    xoffset=2     yoffset=2     xadvance=32    page=0  chnl=15
+char id=39033 x=464   y=0     width=30    height=28    xoffset=1     yoffset=3     xadvance=32    page=0  chnl=15
