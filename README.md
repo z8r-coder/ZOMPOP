@@ -1,2 +1,3 @@
 # ZOMPOP
-Summer training
+cocos2dx -lua
+CQU summer training
